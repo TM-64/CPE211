@@ -1,12 +1,15 @@
 // ****************************************
-// Program Title: Sample header file
-// Project File: Cpp_header.cpp
+// Program Title: Project 06
+// Project File: Project_06.cpp
 // Name: Caleb Lainhart
 // Course Section: CPE-211-02 
 // Lab Section: 3
-// Due Date: 01/22/23 
-// program description: Description of 
-// What the program does.
+// Due Date: 02/20/24 
+// program description: Takes in an input  
+// file of student names and scores and 
+// an output file and calculates the score
+// for each student and outputs it to the 
+// output file
 // ****************************************
 #include <iostream>
 #include <iomanip>
