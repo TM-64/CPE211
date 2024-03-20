@@ -1,12 +1,15 @@
 // ****************************************
-// Program Title: Sample header file
-// Project File: Cpp_header.cpp
+// Program Title: Project 07
+// Project File: Project_07.cpp
 // Name: Caleb Lainhart
 // Course Section: CPE-211-02 
 // Lab Section: 3
-// Due Date: 01/22/23 
-// program description: Description of 
-// What the program does.
+// Due Date: 03/07/2024 
+// program description: A program that 
+// prints out a menu of processes to either
+// count vowels or consonants in a given 
+// input file and displays the count and
+// average of either.
 // ****************************************
 #include <iostream>
 #include <iomanip>
